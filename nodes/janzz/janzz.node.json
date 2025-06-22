@@ -1,0 +1,12 @@
+{
+	"name": "janzz",
+	"displayName": "Janzz",
+	"icon": "file:janzz.png",
+	"group": ["transform"],
+	"version": 1,
+	"description": "Consume Janzz API",
+	"defaults": {
+		"name": "Janzz",
+		"color": "#1A82e2"
+	}
+}
